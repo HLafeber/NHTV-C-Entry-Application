@@ -1,0 +1,47 @@
+﻿  stdafx.cpp
+  UserInterface.cpp
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\userinterface.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\userinterface.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\userinterface.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  Technique.cpp
+  System.cpp
+  simple_boss.cpp
+  Pong.cpp
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\pong.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\pong.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\player.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\player.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\player.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\player.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  NPC.cpp
+  NHTV_2018.cpp
+  RPGmain.cpp
+  Magic.cpp
+  game_lobby.cpp
+  GamePlay.cpp
+  GameMusic.cpp
+  Environment.cpp
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\environment.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\environment.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\environment.cpp(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  blackjack.cpp
+  Bat.cpp
+  Ball.cpp
+  Generating Code...
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(123): warning C4700: uninitialized local variable 'handleDiscordReady' used
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(125): warning C4700: uninitialized local variable 'handleDiscordError' used
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(127): warning C4700: uninitialized local variable 'handleDiscordDisconnected' used
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(129): warning C4700: uninitialized local variable 'handleDiscordJoinGame' used
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(131): warning C4700: uninitialized local variable 'handleDiscordSpectateGame' used
+c:\users\kirito\documents\visual studio 2017\projects\nhtv_2018\nhtv_2018\nhtv_2018.cpp(133): warning C4700: uninitialized local variable 'handleDiscordJoinRequest' used
+discord-rpc.lib(discord-rpc.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Ball.obj
+discord-rpc.lib(discord-rpc.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Ball.obj
+discord-rpc.lib(discord_register_win.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Ball.obj
+discord-rpc.lib(discord_register_win.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Ball.obj
+discord-rpc.lib(serialization.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Ball.obj
+discord-rpc.lib(serialization.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Ball.obj
+discord-rpc.lib(rpc_connection.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Ball.obj
+discord-rpc.lib(rpc_connection.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Ball.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\Kirito\documents\visual studio 2017\Projects\NHTV_2018\Debug\NHTV_2018.exe : fatal error LNK1319: 8 mismatches detected
